@@ -1,6 +1,6 @@
 👋 Hi, I'm Samuel Emmanuel (@iamSea)
 
-🚀 Co Founder & CEO of Cube Tech Enterprise  
+🚀 Co Founder & CEO of Cube Tech Enterprises 
 🤖 AI Automation Consultant | No-Code Developer | Digital Transformation Enthusiast | Systems Administrator | IT Projects Manager
 
 
@@ -9,7 +9,7 @@
 
 I'm passionate about helping businesses automate processes, increase productivity, and scale using Artificial Intelligence, No-Code technologies, and modern software solutions.
 
-I specialize in building business automation systems, CRM platforms, AI-powered assistants, ERP solutions, and digital products that solve real-world problems.
+I specialize in building business automation systems, CRM platforms, AI-powered assistants, ERP/EMR solutions, and digital products that solve real-world problems.
 
 
 
@@ -108,8 +108,8 @@ No-Code & Business Tools
 
 📫 Connect With Me
 
-📧 Email: hello@cubetechenterprise.com  
-🌐 Website: https://cubetechenterprise.com  
+📧 Email: hello@cubetechenterprises.com  
+🌐 Website: https://cubetechenterprises.com  
 💼 LinkedIn: https://linkedin.com/in/iamsea  
 📱 WhatsApp: +234 807 147 2213
 
